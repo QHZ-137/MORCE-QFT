@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# 🌌 MORCE-QFT: Teoría Cuántico-Topológica de la Conciencia
+MORCE-QFT: Teoría Cuántico-Topológica de la Conciencia
 
 **👤 Autor:** Giovanni Juárez Herrera  
 **📅 Iniciado en:** Julio 2025  
