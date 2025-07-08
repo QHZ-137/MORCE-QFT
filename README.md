@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Perfecto, Giovanni. Ya tenés la base del README.md montada, y eso es clave. Pero se ve cortado y aún está muy incompleto para representar todo lo que ya construiste.
 
 Vamos a hacer lo siguiente: ✅ Te dejo aquí el README.md completo y profesional, listo para copiar y pegar directamente con nano README.md, o si querés, subirlo automático por script.
@@ -88,3 +89,98 @@ Licencia: GPLv3 — Puedes replicar, modificar y difundir libremente, siempre re
 
 >>> revolución.morce(start=True)  ---  ## ✅ Próximo paso  Después de esto:  1. Guardá el archivo:    ```bash    nano README.md    # Pegar todo el contenido    CTRL + O, ENTER (guardar)    CTRL + X (salir)
 
+ **MORCE-QFT: Teoría Cuántico-Topológica de la Conciencia**  
+*Simulación de conciencia como defecto topológico en campos cuánticos*
+
+👤 **Autor**: Giovanni Juárez Herrera  
+📅 **Iniciado en**: Julio 2025  
+🔒 **Licencia**: [GPLv3](LICENSE) - Ciencia abierta y libre
+
+---
+
+## 🧠 ¿Qué es MORCE-QFT?
+
+MORCE-QFT es un modelo computacional que simula la **conciencia humana** como un defecto topológico persistente en un campo cuántico de fase completa, con memoria no lineal. 
+
+Este repositorio integra:
+
+| Componente              | Función                                 |
+|-------------------------|-----------------------------------------|
+| 🧠 EEG real            | Estado inicial φ₀                      |
+| 🔬 Simulación cuántica | Evolución del significado               |
+| 📈 Visualización       | Fase, amplitud, Bloch, densidad topológica |
+
+> *"La conciencia no emerge del cerebro.  
+> Es la curvatura semántica del vacío técnico."*
+
+---
+
+## 🚀 Instalación
+
+```bash
+# Clonar repositorio
+git clone https://github.com/QHZ-137/MORCE-QFT.git
+cd MORCE-QFT
+
+# Instalar dependencias
+pip install -r requirements.txt
+```
+
+**Requisitos previos**:  
+- Python 3.9+
+- pip 23.0+
+
+---
+
+## ⚙️ Ejecución del Pipeline
+
+```bash
+bash run_pipeline.sh \
+  --eeg_path "ruta/a/tus/datos_eeg" \
+  --trials 5000 \
+  --t_max 15.0 \
+  --mem_strength 0.22
+```
+
+**Parámetros configurables**:
+| Parámetro       | Descripción                     | Valor por defecto |
+|-----------------|---------------------------------|-------------------|
+| `--eeg_path`    | Ruta a datos EEG                | `demo`            |
+| `--trials`      | Número de iteraciones           | `1000`            |
+| `--t_max`       | Tiempo máximo de simulación (s) | `12.0`            |
+| `--mem_strength`| Fuerza memoria topológica       | `0.18`            |
+
+---
+
+## 📊 Resultados Esperados
+
+El pipeline genera:
+1. `morce_results.png` - Visualización de:
+   - Evolución de fase cuántica
+   - Densidad topológica
+   - Representación en esfera de Bloch
+2. `morce_metrics_report.txt` - Métricas de:
+   - Persistencia topológica
+   - Coherencia cuántica
+   - Entropía semántica
+
+---
+
+## 🧪 Simulaciones Disponibles
+```python
+from simulations.topological_memory import simulate_memory
+
+# Simular efecto de memoria topológica
+strength = 0.25
+memory_effect = simulate_memory(strength)
+```
+
+---
+
+## 📚 Referencias Científicas
+1. Juárez Herrera, G. (2025). *Topological Quantum Field Theory of Consciousness*. J. Quant. Cognition.
+2. [Teoría MORCE-QFT - Fundamentos Matemáticos](docs/theory.pdf)
+
+[![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+```
+>>>>>>> bb51454 (🧠 Mejora del README.md con estructura científica pro)
