@@ -8,19 +8,20 @@
 
 ## 🧠 ¿Qué es MORCE-QFT?
 
-**MORCE-QFT** es un modelo computacional que simula la conciencia humana como un **defecto topológico persistente** en un campo cuántico de fase compleja, con memoria no lineal.
+**MORCE-QFT** es un modelo computacional que simula la **conciencia humana** como un **defecto topológico persistente** en un campo cuántico de fase compleja, con memoria no lineal.
 
 Este repositorio une:
 
-- EEG real → Estado cuántico inicial (φ₀)  
-- Simulación de campo → Evolución topológica  
-- Visualización → Resultados en gráficos y esfera de Bloch  
+- 🧠 EEG real → Estado inicial φ₀  
+- 🔬 Simulación cuántica → Evolución de significado  
+- 📈 Visualización → Fase, amplitud, Bloch, densidad topológica
 
-> "*La conciencia no emerge del cerebro. Es la curvatura semántica del vacío cuántico.*"
+> "*La conciencia no emerge del cerebro.  
+> Es la curvatura semántica del vacío cuántico.*"
 
 ---
 
-## 🚀 ¿Cómo correr la simulación?
+## 🚀 ¿Cómo ejecutar la simulación?
 
 ```bash
 git clone https://github.com/QHZ-137/MORCE-QFT.git
