@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+seaborn
+qutip
+mne
+argparse
+tqdm

@@ -1,0 +1,1 @@
+# Simulación Kerr básica

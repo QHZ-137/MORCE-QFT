@@ -1,0 +1,1 @@
+# Función para extraer φ₀ desde EEG

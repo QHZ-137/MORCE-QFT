@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌌 MORCE-QFT: Teoría Cuántico-Topológica de la Conciencia
 
 **👤 Autor:** Giovanni Juárez Herrera  
@@ -21,10 +22,4 @@ Este repositorio une:
 
 ---
 
-## 🚀 ¿Cómo ejecutar la simulación?
 
-```bash
-git clone https://github.com/QHZ-137/MORCE-QFT.git
-cd MORCE-QFT
-pip install -r requirements.txt
-bash run_pipeline.sh
